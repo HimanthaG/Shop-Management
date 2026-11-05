@@ -1,0 +1,41 @@
+
+{
+  "expo": {
+    "name": "ShopManagement",
+    "slug": "ShopManagement",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+
+    "ios": {
+      "supportsTablet": true,
+      "icon": "./assets/icon.png"
+    },
+
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#123B8A"
+      },
+      "package": "com.himantha03.ShopManagement"
+    },
+
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+
+    "plugins": [
+      "expo-sqlite",
+      "expo-sharing",
+      "expo-secure-store",
+      "expo-font"
+    ],
+
+    "extra": {
+      "eas": {
+        "projectId": "cc3a7736-7aca-4fb5-ad98-8d35b873a1bd"
+      }
+    }
+  }
+}
