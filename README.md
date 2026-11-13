@@ -28,14 +28,11 @@ ShopManagement is an offline mobile application designed to help small shop owne
 
 ## Setup Instructions
 
-  ### For Users
 1. Install the ShopManagement application on your Android.
 
-## Download App
+    Scan the below QR code to download the ShopManagement app to your android mobile.
 
-Scan the QR code to download the ShopManagement app.
-
-![ShopManagement QR Code](assets/qr-code.jpeg)
+    ![ShopManagement QR Code](assets/qr-code.jpeg)
 
 
 2. Open the application.
